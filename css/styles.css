@@ -319,6 +319,25 @@ img {
   
 }
 
+.portfolio-top{
+  position:relative;
+
+}
+
+.overlay-text{
+  position:absolute;
+  inset: 0;
+  font-family: Roboto;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #f4f4fd
+  background-color: #4d5ae5;
+
+}
+
 .project-card{
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
