@@ -11,6 +11,10 @@ body {
   margin: 0;
 }
 
+:root {
+  --icon-color: #f4f4fd;
+}
+
 h1,
 h2,
 h3,
@@ -324,6 +328,10 @@ img {
   padding: 120px 0;
 }
 
+.section-three svg {
+  fill: var(--icon-color); 
+}
+
 .section-title {
   font-size: 36px;
   line-height: 1.11;
@@ -399,7 +407,6 @@ img {
   height: 24px;
   fill:#f4f4fd;
 }
-
 
 .icon-link {
   display: flex;
