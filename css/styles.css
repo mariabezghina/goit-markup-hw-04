@@ -340,6 +340,7 @@ img {
   padding-left: 0;
   margin: 0;
   list-style: none;
+  fill: #f4f4fd
 }
 
 .card-item {
@@ -393,9 +394,6 @@ img {
   display: flex;
 }
 
-.team-icons {
-  fill: #f4f4fd;
-}
 
 .team-icons {
   width: 24px;
